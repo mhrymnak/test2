@@ -25,7 +25,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  ShowMessage('FIX: Hello world.');
+  ShowMessage('FIX: 2gA poprawka do Hello world.');
 end;
 
 end.
