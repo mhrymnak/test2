@@ -41,7 +41,7 @@ end;
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  ShowMessage('FIX: 2gA poprawka do Hello world.');
+  ShowMessage('FIX: 2gA poprawka do Hello world.fdghdfkhgfdkhga');
 end;
 
 end.
