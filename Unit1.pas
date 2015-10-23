@@ -14,6 +14,7 @@ type
     { Private declarations }
   public
     { Public declarations }
+    procedure NowaZajefajnaFunkcja();
   end;
 
 var
@@ -22,6 +23,11 @@ var
 implementation
 
 {$R *.dfm}
+
+procedure TForm1.NowaZajefajnaFunkcja();
+begin
+  // która nic nie robi ale fajna jest;
+end;
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
