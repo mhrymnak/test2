@@ -14,6 +14,7 @@ type
     { Private declarations }
   public
     { Public declarations }
+    procedure CosTamRobiaca();
   end;
 
 var
@@ -22,6 +23,11 @@ var
 implementation
 
 {$R *.dfm}
+
+procedure TForm1.CosTamRobiaca();
+begin
+  // jeszcze nie wiem co, ale siê zobaczy;
+end;
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
